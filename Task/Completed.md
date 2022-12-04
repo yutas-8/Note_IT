@@ -7,3 +7,7 @@ category:
 ---
 
 - Whitebox.setInternalStateについて
+- @Mock
+  - when/ThenReturnを行うことで処理が発生する
+- @Spy
+  - when/ThenReturnを入力しないで通常の処理を行う
