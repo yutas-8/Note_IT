@@ -2,8 +2,8 @@
 title: Mockテストについて
 date: 
 description: Mockテストについて
-tags: ['Mock']
-category: 
+tags: ['UT']
+category: Mock
 ---
 ## Mockとは
 

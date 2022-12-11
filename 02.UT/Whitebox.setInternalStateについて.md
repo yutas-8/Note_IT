@@ -2,8 +2,8 @@
 title: Whitebox.setInternalStateついて
 date: 
 description: 
-tags: ['Mockito']
-category: UT
+tags: ['UT']
+category: Mock
 ---
 
 privateフィールドを置き換えることができる記述方法。
