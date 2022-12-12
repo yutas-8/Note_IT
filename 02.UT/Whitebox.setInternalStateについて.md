@@ -2,8 +2,8 @@
 title: Whitebox.setInternalStateついて
 date: 
 description: 
-tags: ['Mockito']
-category: UT
+tags: ['UT']
+category: Mock
 ---
 
 privateフィールドを置き換えることができる記述方法。
@@ -17,5 +17,3 @@ Whitebox.setInternalState(対象クラスのインスタンス,モックする�
   - 実装側で使用している変数名に該当する。
 - 置き換える値
   - テストクラスの方で使用する変数名となる。
-
-- これを使用する前にインスタンス生成を行っておく必要がある。
