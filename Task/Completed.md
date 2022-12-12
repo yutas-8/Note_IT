@@ -14,4 +14,3 @@ category:
     - when/ThenReturnを入力しないで通常の処理を行う
   - @Mockとインスタンス生成の違い
   - assertメソッドの種類
-
