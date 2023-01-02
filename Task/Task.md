@@ -28,9 +28,7 @@ category:
   - MockMultipartFile
 - コード理解を深める何を考える
 - Zipファイル解凍についてのロジックの勉強
-- th:ifとth:unlessについて
 - @Transaction(readOnly : ture)
-- if文では左から順に実行をされる（複数ある場合、左から順で1つでも落ちればfalseとなる）
 - Array.asListについて
 - git reset --soft HEAD^
   - 直前のコミットを取り消す
