@@ -18,3 +18,4 @@ category:
   - doReturn/whenについて
 - th:ifとth:unlessについて
 - if文では左から順に実行をされる（複数ある場合、左から順で1つでも落ちればfalseとなる）
+- pom.xml
