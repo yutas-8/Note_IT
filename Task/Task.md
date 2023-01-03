@@ -16,7 +16,7 @@ category:
   - <>
   - AND
   - OR
-  - pom.xml
+
 
 ## UT
 
