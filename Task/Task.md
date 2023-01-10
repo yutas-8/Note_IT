@@ -1,7 +1,6 @@
 ---
 title: 今後のまとめる、調べる、学ぶメモ
-date: 
-description:Task未完了のものを書き留めるメモ 
+date: description:Task未完了のものを書き留めるメモ 
 tags: ['Task']
 category: 
 ---
@@ -16,6 +15,10 @@ category:
   - <>
   - AND
   - OR
+- TOOLS全般のショートカットキーの一覧(進行中)
+- .m2について
+- SQL
+  - オーナー変更
 
 ## UT
 
