@@ -19,6 +19,7 @@ category:
 - .m2について
 - SQL
   - オーナー変更
+  - pg_dump
 
 ## UT
 
