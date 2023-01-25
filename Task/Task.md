@@ -20,6 +20,7 @@ category:
 - SQL
   - オーナー変更
   - pg_dump
+- backlogについて理解をする
 
 ## UT
 
