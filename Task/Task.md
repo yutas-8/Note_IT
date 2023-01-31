@@ -4,6 +4,11 @@ date: description:Task未完了のものを書き留めるメモ
 tags: ['Task']
 category: 
 ---
+## 知識
+
+- 構成管理
+- IT管理
+
 ## MT
 
 - XMLの記述方法
@@ -21,6 +26,7 @@ category:
   - オーナー変更
   - pg_dump
 - backlogについて理解をする
+
 
 ## UT
 
