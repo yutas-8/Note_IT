@@ -8,6 +8,9 @@ category:
 
 - 構成管理
 - IT管理
+- Redisキャッシュの確認方法 `keys` について
+- PlantUMLについて調べる
+- エクスプローラーのショートカットキー集作成
 
 ## MT
 
@@ -26,6 +29,7 @@ category:
   - オーナー変更
   - pg_dump
 - backlogについて理解をする
+- gitについて（進行中）
 
 
 ## UT
