@@ -1,4 +1,12 @@
-﻿; テキストエディタ色設定 Ver3
+﻿---
+title: サクラエディターの設定 
+date: 
+description: `.col`ファイルで行う
+tags: ['TOOLS']
+category: 
+---
+
+; テキストエディタ色設定 Ver3
 
 [SakuraColor]
 C[BRC]=1,1,000000,a6e22e,0
@@ -58,4 +66,3 @@ C[URL]=1,0,7226f9,222827,1
 C[VER]=0,0,463a96,222827,0
 C[WQT]=1,0,74dbe6,222827,0
 C[ZEN]=1,0,a5a5a5,222827,0
-
