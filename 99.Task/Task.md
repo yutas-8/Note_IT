@@ -12,6 +12,8 @@ category:
 - PlantUMLについて調べる
 - エクスプローラーのショートカットキー集作成
 - 503エラーについて
+- サーブレット
+- Mermaid
 
 ## MT
 
@@ -31,6 +33,8 @@ category:
   - pg_dump
 - backlogについて理解をする
 - gitについて（進行中）
+- spring.servlet.multipart.max-file-size
+- spring.servlet.multipart.max-request-size
 
 
 ## UT
@@ -52,3 +56,4 @@ category:
   - Nullの返却を行わない
 - instanceofについて
 - 日付に関する（変換も含めて）
+- NoSuchMethodError
