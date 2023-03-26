@@ -14,6 +14,18 @@ category:
 - 503エラーについて
 - サーブレット
 - Mermaid
+- HTTPSESSION
+- CSRFトークン
+- Cookie
+- Samesite
+- 認証について
+	- IDPW方式
+	- 電子署名方式
+		- 公開鍵認証方式
+			- 公開鍵
+			- 秘密鍵
+		- 共通鍵認証方式
+	- 生体認証方式
 
 ## MT
 
@@ -57,3 +69,13 @@ category:
 - instanceofについて
 - 日付に関する（変換も含めて）
 - NoSuchMethodError
+
+## IT,ST
+
+- リグレッションテスト
+- デグレード
+---
+description: 
+tags: 
+    - '' 
+---
