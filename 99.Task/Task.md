@@ -12,7 +12,7 @@ category:
 - PlantUMLについて調べる
 - エクスプローラーのショートカットキー集作成
 - 503エラーについて
-- サーブレット
+
 - Mermaid
 - HTTPSESSION
 - CSRFトークン
@@ -43,6 +43,7 @@ category:
 - SQL
   - オーナー変更
   - pg_dump
+  - castについて
 - backlogについて理解をする
 - gitについて（進行中）
 - spring.servlet.multipart.max-file-size
