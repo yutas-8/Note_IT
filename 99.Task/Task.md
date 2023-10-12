@@ -6,7 +6,6 @@ category:
 ---
 ## 知識
 
-- 構成管理
 - IT管理
 - Redisキャッシュの確認方法 `keys` について
 - PlantUMLについて調べる
@@ -75,6 +74,9 @@ category:
 
 - リグレッションテスト
 - デグレード
+
+## SQL
+- 文字列データ型について（固定長･可変長）
 ---
 description: 
 tags: 
