@@ -76,7 +76,8 @@ category:
 - デグレード
 
 ## SQL
-- 文字列データ型について（固定長･可変長）
+
+
 ---
 description: 
 tags: 
