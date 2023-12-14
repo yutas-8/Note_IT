@@ -1,5 +1,3 @@
-# vscodeでMarkdown設定
-
 ## CSS
 
 ```css
