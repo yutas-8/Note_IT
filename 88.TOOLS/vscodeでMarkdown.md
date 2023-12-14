@@ -1,4 +1,11 @@
-## CSS
+---
+title: vscodeでMarkdown
+description: Markdown使用時の設定の色々
+tags: ['Markdown', 'vscode']
+category: vscode
+---
+
+## プレビューのCSS設定
 
 ```css
 h1 {
@@ -84,3 +91,58 @@ h1 {
 - Japanese Language Pack for Visual Studio Code
 - Material Icon Theme
 - Prettier - Code formatter
+
+## スニペットの設定
+
+### スニペットの保存場所
+
+`ファイル > ユーザ設定 > ユーザスニペット構成`
+
+### スニペットの保存
+
+Markdownの場合は(`markdown.json`が開かれるはず)
+ファイル内にスニペットの内容を作成
+
+```json
+{
+  "vsnote_template_tags": {
+    //スニペットを呼び出すキーワード
+    "prefix": "template_tags",
+    //スニペットの内容
+    "body": [
+      "---",
+      "title: $1",
+      "description: $2",
+      "tags: ['$3']",
+      "category: $4",
+      "---",
+      "\n",
+    ],
+    //スニペットの説明
+    "description": "Markdownノートのタグ用Template"
+  }
+}
+```
+
+### スニペットをキーボードショートカットに登録
+
+`ファイル > ユーザ設定 > キーボードショートカット`を開く
+右上にある｢Open Keyboard Shortcuts (JSON)｣を押下して`keybindings.json`を開く
+下記のようにショートカットを設定する
+
+```json
+[
+    {
+        "key": "ctrl+alt+a", // 任意のキーを選択
+        "command": "editor.action.insertSnippet",
+        "when": "editorTextFocus",
+        "args": {
+            "langId": "markdown",
+            "name": "vsnote_template_tags" // スニペットの名前
+        }
+    }
+]
+
+```
+
+保存して閉じると使用できるようになっている
